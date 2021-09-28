@@ -1,0 +1,15 @@
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\bin\Debug\prolabodev.exe.config
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\bin\Debug\prolabodev.exe
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\bin\Debug\prolabodev.pdb
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.Form1.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.Properties.Resources.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.exe
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.pdb
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.Anaekran.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.admingiris.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.kullanıcıGiris.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.kullaniciekran.resources
+C:\Users\Mert\Desktop\Dosyalarım\Prolab Projeleri\prolabodev\obj\Debug\prolabodev.Form3.resources
